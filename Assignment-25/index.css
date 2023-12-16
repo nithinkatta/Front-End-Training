@@ -1,9 +1,9 @@
 *{
     box-sizing: border-box;
 }
-
-.container{
-    margin-top: 0rem !important;
-    margin-bottom: 0rem !important;
-    margin: 10rem;
+.image{
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzo2EbJQzTXUo7BsEIwcNNBaLItn9GtpZDA&usqp=CAU');
 }
