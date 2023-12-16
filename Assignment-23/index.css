@@ -3,7 +3,7 @@
 }
 .container{
     display: flex !important;
-    justify-content: space-around !important;
+    justify-content: space-evenly !important;
     flex-wrap: wrap !important;
     padding: 20px;
 }
@@ -11,7 +11,7 @@
     border:1px solid;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: center;
     width: 25rem;
     margin: 10px;
