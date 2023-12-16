@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.main-div{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: red;
+    height: 600px;
+}
+.image-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.text{
+    justify-items: space-around;
+    text-align: center;
+}

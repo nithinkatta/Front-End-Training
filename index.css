@@ -1,0 +1,27 @@
+div{
+    display: block;
+    color: black;
+    background-color: antiquewhite;
+}
+ul{
+    display: flex;
+    
+}
+li{
+    list-style: none;
+    padding: 20px;
+    border: 2px solid antiquewhite;
+    background-color: antiquewhite;
+}
+nav{
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    display: flex;
+    padding: 20px 20px;
+    justify-content: space-between;
+    box-shadow: 0px 2.98256px 7.98256px rgba(0, 0, 0, 1);
+}
+.div-1{
+    height: 500px;
+    width :100%;
+    border: 5px solid while;
+}

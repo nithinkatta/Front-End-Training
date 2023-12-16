@@ -1,0 +1,22 @@
+.box{
+    height: 430px;
+    width: 200px;
+    border: 5px solid ;
+    border-color: darkblue;
+    display: block;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 90px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.text{
+    margin: 0%;
+    height: 215px;
+    padding-bottom: 11px;
+    padding-top: 10px;
+    margin-top: -10px;
+    background-color:cadetblue;
+}

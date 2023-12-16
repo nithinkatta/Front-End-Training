@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+a:hover{
+    color: aqua;
+}
+a:visited{
+    color:orange;
+}
+a:link{
+    color:blue;
+}
+a:active{
+    color: blueviolet; 
+}

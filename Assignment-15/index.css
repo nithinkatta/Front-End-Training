@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    position:absolute;
+    margin: 5rem;
+    border: 1px solid;
+    background-color: aqua;
+}
+.sub{
+    justify-content: center;
+
+}
+.box{
+    display: inline;
+    justify-content: right;
+    text-align: right;
+}
+
+.box div{
+    display: flex;
+    margin: 0.5rem;
+}
+.ip{
+    margin: 10px;
+}
+select{
+    width: 170px;
+    height: 25px;
+}
+textarea{
+    margin: 10px;
+    min-width: 170px;
+    min-height: 25px;
+}
+.submit{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}

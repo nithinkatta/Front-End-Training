@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    position: absolute;
+    margin-left:13rem;
+}
+.div-1{
+    position:absolute;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border:1.5px solid black;
+    width:25rem;
+    padding-bottom: 20px;
+}
+.astrick{
+    color:red;
+}
+.data-1{
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;;
+}
+.heading-1{
+    background-color: white;
+    position:absolute;
+    top:-0.5rem;
+    left:0.5rem;
+}
+.div-2{
+    position: absolute;
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+    border:1.5px solid black;
+    width:25rem;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+.data-2{
+    margin-top: 2rem;
+    margin-top: 1rem;
+}
+.name{
+    margin-left: 1rem;
+    border:1px solid grey;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}
+.textarea{
+    margin-left:1rem;
+    width:20rem;
+    margin: 10px;
+}
+.heading-2{
+    background-color: white;
+    position:absolute;
+    top:-0.5rem;
+    left:0.5rem;
+}
+.div-3{
+    position:absolute;
+    margin-top: 28rem;
+    margin-bottom: 26rem;
+    border:1.5px solid black;
+    width:25rem;
+}
+.submit{
+    margin-top:34rem;
+    margin-left: 1rem;
+    border:2px solid blue;
+    width:9rem;
+    height:2.5rem;
+    text-align: center;
+    background-color: rgb(41, 174, 41);
+}
+.heading-3{
+    background-color: white;
+    position: absolute;
+    top:-0.5rem;
+    left:0.5rem;
+}
+.data-3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    
+}
+.img-1{
+    top: 0;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+}
+#img-1{
+    height: 20rem;
+    width: 100rem;
+}
+.div-2{
+    margin-top: 5rem;
+}
